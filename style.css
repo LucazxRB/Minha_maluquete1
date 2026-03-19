@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(142, 59, 221);
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+h3{
+    margin-left: 100px;
+    margin-right: 100px;
+}
